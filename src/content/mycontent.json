@@ -1,125 +1,68 @@
 {
-  "Title": "Aditya Ketkar | Personal Webpage",
-  "Name": "Aditya Ketkar",
+  "Title": "All About Affordable NFTs",
+  "Name": "All About Affordable NFTs",
+
   "Description": [
-    "SDE @ Microsoft. Recent graduate from BITS Pilani. Passionate about Space Tech, Sports and Startups.",
-    "I grab every chance I get to travel, learn and create."
+    "A podcast about collecting NFTs"
+
+
   ],
-  "MainImage": "https://i.imgur.com/yQZNGdm.jpg",
+  "MainImage": "",
   "BackgroundURL": "",
 
-  "AboutImage": "https://i.imgur.com/5sOLND6.jpg",
+  "AboutImage": "",
   "AboutContent": [
-    "I’m a Software Engineer by day, a Table Tennis player by evening, a functional wantrepreneur by midnight and a hustler always.",
-    "If you can’t find me, it’s because I’m already cycling, off to a hike, or cheering for Verstappen",
-    "I am passionate about Space Technology and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
-    "I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can."
+    "A podcast about collecting NFTs"
+
   ],
 
   "WorkContent": [
-    "I am currently SDE-1 at Microsoft. I also lead the tech team @ EdMad.co"
+    "Podast launching soon"
   ],
-  "WorkImage": "https://i.imgur.com/BHt1YKg.png",
-  "InternshipsStartLine": "Previously, I have interned with :",
+  "WorkImage": "",
   "InternShips": [
-    {
-      "name": "Amazon India",
-      "link": "#"
-    },
-    {
-      "name": "North-Eastern Space Application Center (ISRO) ↗",
-      "link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-    },
-    {
-      "name": "Computer Vision Center, Universitat Autonoma de Barcelona  ↗",
-      "link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
-    }
+
   ],
-  "ProjectsStartLine": "Some of my other works can be found here :",
+
   "Projects": [
-    {
-      "name": "EdMad  ↗",
-      "link": "https://edmad.co"
-    },
-    {
-      "name": "DelOr  ↗",
-      "link": "https://bitsdelor.wixsite.com/delor"
-    },
-    {
-      "name": "EisenList  ↗",
-      "link": "https://github.com/adityaketkar/eisenlist"
-    },
-    {
-      "name": "Alexa Music Companion  ↗",
-      "link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-    },
-    {
-      "name": "Gatsby Personal Webpage  ↗",
-      "link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
-    }
+
   ],
   "showTalksAndBlogTab": true,
-  "TalksAndBlogsTopContent": "I actively attend events to gain and share my knowledge. If you have an event/talk/panel which I can be a part of in any way (to 🗣 or 👂 or both), feel free to reach out at adityaketkar848[ at ]gmail[ dot ]com",
+  "TalksAndBlogsTopContent": "news about the show",
   "TalkIntroLine": "",
   "Talks": [
     {
-      "talkTitle": "Front End Patterns for ⚡ Performance",
-      "talkMetadata": "@ Microsoft, March 2021",
-      "talkDescription": "A live and interactive deep dive into frontend-performance optimization with patterns like CSR, SPAs, SSR, SSG, ISG etc (👻). A comparative study of technologies behind Amazon, Gmail, Netflix along with some quick wins for perf improvements",
+      "talkTitle": "Podcast launching soon",
+      "talkMetadata": "",
+      "talkDescription": "",
       "links": [
         {
-          "url": "https://drive.google.com/file/d/13yhcpI_CwCU0np_tzTAUJGNci4hSGme3/view?usp=sharing",
-          "linkTitle": "Slides (pdf) ↗"
-        },
-        {
-          "url": "https://drive.google.com/file/d/19J08czyywp7JCioK8eDQ2Li83zW3bc3C/view?usp=sharing",
-          "linkTitle": "Slides with videos (pptx)  ↗"
+          "url": "",
+          "linkTitle": ""
         }
-      ]
-    },
-    {
-      "talkTitle": "Resume Drafting 101",
-      "talkMetadata": "@ EdMad, July 2020",
-      "talkDescription": "Zero to hero in drafting and maintaining a killer resume, all in 30 mins. A talk for final and pre-final year students and people looking to up their resume game 💪",
-      "links": [
-        {
-          "url": "https://drive.google.com/file/d/19vIO2utgN8zpioxbrRW8TtXIiHBBBTbk/view?usp=sharing",
-          "linkTitle": "Slides  ↗"
-        }
+
       ]
     }
+
   ],
-  "BlogsIntroLine": "Here are some of my blog posts you might enjoy : ",
+  "BlogsIntroLine": " ",
   "Blogs": [
     {
-      "blogTitle": "Hey Alexa, meet Music 🎵",
-      "link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-    },
-    {
-      "blogTitle": "7 actionable steps to ace your coding interview 👩‍💻",
-      "link": "https://www.linkedin.com/pulse/7-actionable-steps-ace-your-coding-interview-aditya-ketkar?trk=public_profile_article_view"
-    },
-    {
-      "blogTitle": "Tech Interview Prep Series 👨‍💼",
-      "link": "https://edmad.co/blog"
-    },
-    {
-      "blogTitle": "Jagriti Yatra Series 🚂 🌎",
-      "link": "https://ketkar.medium.com/jagrati-yatra-day-1-d30725cf8f71"
+      "blogTitle": "",
+      "link": ""
     }
+
   ],
 
-  "CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together 💪 ",
-  "CV": "https://www.visualcv.com/aditya-ketkar/",
-  "Resume": "https://drive.google.com/file/d/1zYV1lTNuGbMaB5-vnaGY5x-gnb9kAwWX/view?usp=sharing",
 
-  "emailid": "mailto:adityaketkar848@gmail.com",
-  "linkedin": "https://linkedin.com/in/adityaketkar",
-  "wordpress": "https://technoshblog.wordpress.com/",
-  "facebook": "https://www.facebook.com/aditya.ketkar.520",
-  "github": "https://github.com/adityaketkar",
-  "instagram": "http://www.adityaketkar.me",
-  "twitter": "https://twitter.com/adityaketkar",
-  "medium": "https://ketkar.medium.com/",
-  "linktree": "https://linktr.ee/ketkar"
+
+  "emailid": "mailto:rantum@ecomloop.com",
+  "linkedin": "",
+  "wordpress": "",
+  "facebook": "",
+  "github": "",
+  "instagram": "",
+  "twitter": "",
+  "medium": "",
+  "linktree": ""
 }

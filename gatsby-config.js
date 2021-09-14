@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Aditya Ketkar | Personal Webpage',
-    author: 'Aditya Ketkar',
-    description: 'A Gatsby.js V2 Starter based on Dimension by HTML5 UP',
+    title: 'All About Affordable NFTs',
+    author: '',
+    description: 'a podcast about NFTs',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

@@ -32,7 +32,7 @@ class Main extends React.Component {
             msOverflowStyle: 'none',
           }}
         >
-          <h2 className="major">About Me</h2>
+          <h2 className="major">About</h2>
           <span className="image main">
             <div>
               <img src={JSONData.AboutImage} alt="" />
@@ -75,7 +75,7 @@ class Main extends React.Component {
             msOverflowStyle: 'none',
           }}
         >
-          <h2 className="major">Work</h2>
+          <h2 className="major">Episodes</h2>
           <span className="image main">
             <img src={JSONData.WorkImage} alt="" />
           </span>
@@ -174,7 +174,7 @@ class Main extends React.Component {
               }}
               className="major"
             >
-              Talks
+              News
             </h2>
             <div
               style={{
@@ -248,7 +248,7 @@ class Main extends React.Component {
               })}
             </ul>
             <hr />
-            <h2 style={{ fontWeight: '700' }}>Blogs</h2>
+
             <div
               style={{
                 fontFamily: 'Open Sans, sans-serif',
@@ -260,24 +260,7 @@ class Main extends React.Component {
               {JSONData.BlogsIntroLine}
             </div>
             <br />
-            <ul>
-              {JSONData.Blogs.map(item => {
-                return (
-                  <li
-                    style={{
-                      fontFamily: 'Fira Mono, monospace',
-                      fontWeight: '400',
-                      fontSize: 'medium',
-                      lineHeight: '1.8',
-                    }}
-                  >
-                    <a target="_blank" href={item.link}>
-                      {item.blogTitle}
-                    </a>
-                  </li>
-                )
-              })}
-            </ul>
+        
 
             {/* not visible in gatsby build */}
             {close}
