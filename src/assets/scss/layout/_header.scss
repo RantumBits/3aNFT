@@ -154,7 +154,10 @@
 
           &:hover,
           &:focus {
-            background-color: _palette(border-bg);
+          //  background-color: _palette(border-bg);
+          background-color: #03989E;
+          opacity: 50%;
+          color: white !important;
           }
 
           &:active {
